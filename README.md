@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# shop_app
-A shopping app made using flutter
-=======
-# shop_app_flutter
+#Shopping_App
+ShopEase is a cross-platform shopping app built using Flutter and Dart, offering a seamless and intuitive e-commerce experience. Users can browse products by category, view detailed descriptions, add items to the cart, and securely checkout. The app includes features like user authentication, wishlist, and order tracking. It integrates with a real-time backend and supports responsive UI for both Android and iOS. The app showcases API integration, state management (like Provider or Bloc), and Flutter UI design skills.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 8a89270 (initial commit)
